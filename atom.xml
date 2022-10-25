@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>松易涅的写作分享站</title>
+  
+  <subtitle>Hexo分站</subtitle>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2022-10-25T02:28:32.936Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>松易涅</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo分站的筹建计划</title>
+    <link href="http://yoursite.com/2022/10/24/Hexo%E5%88%86%E7%AB%99%E7%9A%84%E7%AD%B9%E5%BB%BA%E8%AE%A1%E5%88%92/"/>
+    <id>http://yoursite.com/2022/10/24/Hexo%E5%88%86%E7%AB%99%E7%9A%84%E7%AD%B9%E5%BB%BA%E8%AE%A1%E5%88%92/</id>
+    <published>2022-10-24T09:23:41.000Z</published>
+    <updated>2022-10-25T02:28:32.936Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="这是使用-GitHub-Pages-建立的-Hexo-博客。"><a href="#这是使用-GitHub-Pages-建立的-Hexo-博客。" class="headerlink" title="这是使用 GitHub Pages 建立的 Hexo 博客。"></a>这是使用 GitHub Pages 建立的 Hexo 博客。</h1><p>相较于 WordPress，Hexo 是纯静态渲染而成的，占用资源少，输出效率高。文章使用 Markdown 语言，所写即所得，不用考虑纷繁的富文本格式。</p><p>以下是若干完善分站的计划：</p><ol><li>选择合适的主题，基本实现前端页面汉化。</li><li>美化站点页面</li><li>配置主题文件，使主页包含“文章”、“分类”、“关于”、“主站”等基本菜单选项。</li><li>复制主站文章。</li></ol><p>预计今年十二月底前完成上述计划。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;这是使用-GitHub-Pages-建立的-Hexo-博客。&quot;&gt;&lt;a href=&quot;#这是使用-GitHub-Pages-建立的-Hexo-博客。&quot; class=&quot;headerlink&quot; title=&quot;这是使用 GitHub Pages 建立的 Hexo 博客。&quot;&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
